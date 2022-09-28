@@ -49,6 +49,13 @@ module.exports = {
         label: "יצירת קשר",
         url: "https://american-airlines-tickets.com/contact",
       },
+      
+            
+       {
+        label: "מאיה קרסו",
+        url: "https://maya.tase.co.il/company/2384",
+      },
+      
      
     ],
   },
