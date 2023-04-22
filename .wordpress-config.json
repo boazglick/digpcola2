@@ -1,5 +1,5 @@
 {
-  "baseUrl": "spider.ussl.co.il/american-airlines-tickets",
+  "baseUrl": "spider.ussl.co.il/giffer",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
